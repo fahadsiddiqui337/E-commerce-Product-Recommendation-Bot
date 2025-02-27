@@ -1,0 +1,5 @@
+langchain
+langchain_google_genai
+gradio
+huggingface_hub
+python-dotenv
