@@ -12,5 +12,7 @@ An AI-powered chatbot for e-commerce platforms using LangChain and Gradio
 
 
  Contact & Support
-📬 Developer: Fahad ur Rehman
-📩 Email: Fahadsiddiqui337@gmail.com
+
+ 📬 Developer: Fahad ur Rehman
+ 
+ 📩 Email: Fahadsiddiqui337@gmail.com
